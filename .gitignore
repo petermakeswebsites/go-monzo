@@ -1,0 +1,25 @@
+# Go
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+#Test binary, built with go test -c
+*.test
+
+# Output of coverage tools
+*.out
+*.cover
+
+# Go workspace file - for local development only!
+go.work
+go.work.sum
+
+# IDE / Editor folders
+.vscode/
+.idea/
+*.swp
+*~
